@@ -3,7 +3,7 @@
 - - - 
 
 # 📋 목차 
-### 1. [프로젝트 설명](https://github.com/dhkim310/First-Project)#-프로젝트-설명 "프로젝트설명")                  
+### 1. [프로젝트 설명](https://github.com/dhkim310/First-Project#-프로젝트-설명 "프로젝트설명")                  
 ### 2. [개발기간](https://github.com/dhkim310/First-Project#-개발-기간 "개발기간")         
 ### 3. [데이터베이스(DB) 설계](https://github.com/dhkim310/First-Project#-데이터베이스db-설계 "db설계")         
 ### 4. [사용기술](https://github.com/whatiiiii/sec_project#%EF%B8%8F-languages-and-tools "사용기술")         
@@ -35,9 +35,10 @@ __상품을 주문하는 일련의 과정에서 마지막 결제까지 쇼핑몰
 - - -
 
 # 💻 기능소개
-* 로그인/회원가입/비밀번호 변경
+* 로그인/회원가입/로그인 유지
 * 상품 선택 및 장바구니 담기 기능
-* 상품 검색 및 게시판 글 검색
+* 상품 검색 기능
+* 상품 주문 및 찜하기 기능 구현
 
 - - -
 
