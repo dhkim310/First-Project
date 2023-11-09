@@ -3,7 +3,7 @@
 - - - 
 
 # 📋 목차 
-### 1. [프로젝트 설명](https://github.com/dhkim310/First-Project#-프로젝트설명 "프로젝트설명")                  
+### 1. [프로젝트 설명](https://github.com/dhkim310/First-Project#rocket-프로젝트-설명 "프로젝트설명")                  
 ### 2. [개발기간](https://github.com/dhkim310/First-Project#-개발-기간 "개발기간")         
 ### 3. [데이터베이스(DB) 설계](https://github.com/dhkim310/First-Project#-데이터베이스db-설계 "db설계")         
 ### 4. [사용기술](https://github.com/dhkim310/First-Project#%EF%B8%8F-languages-and-tools "사용기술")         
